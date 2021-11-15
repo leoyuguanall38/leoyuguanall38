@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leoyuguanall38
 - 👀 I’m interested in radiology, machine learning, mobile and web development.
-- 🌱 I’m currently learning HTML, CSS, Javascript.
+- 🌱 I’m currently learning HTML, CSS, Javascript, Python.
 - 💞️ I’m looking to collaborate on anything related to radiology, machine learning, and mobile and web development.
 - 📫 How to reach me tianyuan.fu@uhhospitals.org
 
